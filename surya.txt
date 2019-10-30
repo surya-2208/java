@@ -1,0 +1,3 @@
+We pusing the file local to remote
+we are doing practice of git remote
+infinito solution
